@@ -1,5 +1,5 @@
 # Unsupervised Learning for Parking Detection
-By Kushajveer Singh ([https://kushajveersingh.github.io](https://kushajveersingh.github.io/))
+By Pratham Balodi 
 
 This repo is the official pytorch implementation of "**Upsupervised Learning for Parking Detection**". It is based on a **modular approach** where you can change the blocks according to your need.
 
